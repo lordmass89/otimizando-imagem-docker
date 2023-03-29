@@ -70,7 +70,12 @@ O parâmetro -s remove informações de debug do executável e o -w impede a ger
 ```
 docker build -t lordmass/desafio-fullcycle-docker-golang . -f Dockerfile.scratch
 ```
+## Pull
 
+docker pull lordmass/desafio-fullcycle-docker-golang
+```
+
+```
 ## Run
 
 ```
