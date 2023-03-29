@@ -1,4 +1,4 @@
-# Projeto prático: Otimização de uma imagem golang
+# FullCycle Desafio Docker: Otimização de uma imagem golang
 
 ## Desafio Docker FullCycle
 
